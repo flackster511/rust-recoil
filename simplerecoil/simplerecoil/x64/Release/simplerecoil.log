@@ -1,0 +1,6 @@
+﻿  Generating code
+  213 of 2091 functions (10.2%) were compiled, the rest were copied from previous compilation.
+    157 functions were new in current compilation
+    47 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  simplerecoil.vcxproj -> C:\Users\allen\Desktop\simplerecoil\x64\Release\simplerecoil.exe
